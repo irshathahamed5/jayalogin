@@ -1,0 +1,70 @@
+
+body
+{
+background:#4285F4;
+	color: white;
+	
+}
+form
+{
+	margin-top:4rem;
+	
+
+}
+
+.l1
+{
+	margin-right:15rem;;
+}
+.l2
+{
+	margin-right:15rem;
+}
+.l3
+{
+	margin-right:17rem;
+}
+.l4
+{
+	margin-right:17rem;
+}
+.l5
+{
+	margin-right:16rem;
+}
+.l6
+{
+	margin-right:8rem;
+	background-position:fixed;
+}
+
+.i1
+{
+	width:25%;
+}
+.i2
+{
+	width:25%;
+}
+.i3
+{
+	width:25%;
+}
+.i4
+{
+	width:25%;
+}
+.i5
+{
+	width:25%;
+}
+Button
+{
+	background-color:blue;
+    color:white;
+	
+	padding-left:50px;
+	padding-right:60PX;
+	margin-top:5px;
+
+}
